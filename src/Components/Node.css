@@ -1,0 +1,28 @@
+.node{
+    width: 30px;
+    height: 30px;
+    border:1px solid black;
+    border-radius: 3px;
+    margin: 1px;
+    
+}
+
+.node-start{
+    background-color: green;
+    align-items: center;
+    align-self: center;
+}
+.ele{
+    margin: auto !important;
+    justify-content: center !important;
+    display: flex;
+
+}
+
+.node-end{
+    background-color:rgb(237, 101, 101);
+}
+
+.node-wall{
+    background-color: black;
+}
